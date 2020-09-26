@@ -13,6 +13,8 @@ for each planner. Note that you can run on a different size by simply changing
 the `n, k = 5, 5` to another setting.
 
 ```
+$ python rocksample_problem.py
+
 *** Testing POMCP (random rollout) ***
 ==== Step 1 ====
 True state: State((0, 2) | ('good', 'bad', 'bad', 'good', 'bad') | False)
